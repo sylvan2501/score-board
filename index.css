@@ -1,0 +1,73 @@
+.scoreboard-container{
+  display: block;
+}
+.home-container{
+  /* board-title-home */
+  position: absolute;
+  width: 149px;
+  height: 36px;
+  left: 85px;
+  top: 68px;
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 36px;
+/* identical to box height, or 90% */
+  text-align: center;
+  color: #680a0a;
+}
+.guest-container{
+  /* board-title-home */
+  position: absolute;
+  width: 149px;
+  height: 36px;
+  left: 285px;
+  top: 68px;
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 36px;
+/* identical to box height, or 90% */
+  text-align: center;
+  color: #680a0a;
+}
+
+.home-score{
+  /* board-title-home */
+  position: absolute;
+  width: 149px;
+  height: 36px;
+  left: 5px;
+  top: 68px;
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 36px;
+/* identical to box height, or 90% */
+  text-align: center;
+  color: #680a0a;
+}
+
+.guest-score{
+  /* board-title-home */
+  position: absolute;
+  width: 149px;
+  height: 36px;
+  left: 5px;
+  top: 68px;
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 36px;
+/* identical to box height, or 90% */
+  text-align: center;
+  color: #680a0a;
+}
+
+.home-score{
+  display: block;
+}
